@@ -9,7 +9,7 @@ body {
     user-select: none;
   }
   
-  .bot0n {
+  .cabecera {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -28,7 +28,7 @@ body {
     justify-content: center;
   }
 
-  .bot0n2 {
+  .relleno {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -48,7 +48,7 @@ body {
   }
 
 
-  .bot0n3 {
+  .amigos {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
