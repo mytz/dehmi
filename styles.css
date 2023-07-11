@@ -10,8 +10,6 @@ body {
   }
   
   .cabecera {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     justify-content: center;
     -ms-flex-wrap: wrap;
