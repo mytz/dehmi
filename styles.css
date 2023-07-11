@@ -18,8 +18,10 @@ body {
     margin-top: 70px;
     padding-left: -1px;
   }
-
-  
+img {
+    margin-bottom: 100px;
+}
+ 
   .cuerpo {
     display: -webkit-box;
     display: -ms-flexbox;
