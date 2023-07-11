@@ -13,6 +13,7 @@ body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: block;
+    justify-content: center;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     margin-top: 70px;
@@ -23,6 +24,7 @@ body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: block;
+      justify-content: center;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
