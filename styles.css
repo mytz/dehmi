@@ -40,16 +40,6 @@ body {
     justify-content: center;
   }
 
-
-  .relleno {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    padding-right: 20px;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-  }
-
   .cuerpo2 {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -60,6 +50,14 @@ body {
     justify-content: center;
   }
 
+  .relleno {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-right: 20px;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
 
   .amigos {
     display: -webkit-box;
@@ -69,27 +67,9 @@ body {
     flex-wrap: wrap;
   }
 
-  .cuerpo3 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-  }
-
-
   .amigos2 {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
   }
 
-  .cuerpo4 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-  }
