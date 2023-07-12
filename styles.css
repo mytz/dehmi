@@ -91,18 +91,3 @@ body {
     -ms-flex-pack: center;
     justify-content: center;
   }
-
-  .cuerpo5 {
-    display: block;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-  }
-
-  .footer {
-    display: flex;
-    justify-content: center;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-  }
- 
