@@ -32,8 +32,6 @@ body {
     justify-content: center;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-top: 70px;
-    padding-left: -1px;
   }
  
   .cuerpo1 {
