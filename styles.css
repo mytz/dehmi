@@ -75,9 +75,8 @@ body {
   }
 
   .cuerpo3 {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: block;
+    padding-top: 5px;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
@@ -90,8 +89,6 @@ body {
   }
  
   .cuerpo4 {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: block;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
