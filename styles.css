@@ -89,3 +89,18 @@ body {
     flex-wrap: wrap;
   }
  
+  .cuerpo4 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: block;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+  .firma {
+    display: flex;
+    justify-content: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+ 
